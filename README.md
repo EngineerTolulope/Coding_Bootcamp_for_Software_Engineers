@@ -1,4 +1,4 @@
-# Software Engineering Coding Bootcamp
+# Coding Bootcamp for Software Engineers
 App Academy, Full-Stack Curriculum
 
 The repository contains the projects and exercises I completed while enrolled in App Academy's software engineering coding bootcamp.
