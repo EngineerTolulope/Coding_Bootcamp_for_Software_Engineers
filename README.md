@@ -16,21 +16,32 @@ The numbering of the folders indicates the order in which they were completed. T
 ### Object Oriented Programming
 - __Startup Project:-__ The startup project uses two classes: employee and startup. The startup class has methods for hiring and firing new employees, paying current employees, and closing the startup. The startup class can also acquire another startup by hiring all of its employees and terminating the previous startup.
 - __Battleship Game:-__ The classic battle ship game has been recreated with three classes. The board class controls the board's internal operations like attack and rendering. The player class is instructed which ship to attack. The battleship stores the board, player, and remaining guesses.
+ <p align="center">
+  <img src="https://user-images.githubusercontent.com/94204398/144152030-59c7203b-b3e7-4982-adfd-4d080c874ccd.PNG" alt="Material Bread logo">
+ </p>
 
 ### Additional Projects
 - __Flight Project:-__ The project uses two classes: passenger and flight. The passenger class stores information like name and flight number. Flight class contains information about a flight's characteristics, such as flight number, capacity, and passengers.
 - __TicTacToe Game:-__ This project implemented the classic tic tac toe game for two or more humans or computers on a dynamically sized grid. The final version includes four classes: board, game, human player, and computer player.
 - __Todo Board Project:-__ This project created a task board for tracking unfinished tasks. Two versions were created: one that manages a single to-do list and another that manages multiple to-do lists with expanded list and item features.
-
+ <p align="center">
+  <img src="https://user-images.githubusercontent.com/94204398/144153049-905f4170-39f4-4934-ad7a-7b10a4fb3538.png" alt="Material Bread logo">
+   <img src="https://user-images.githubusercontent.com/94204398/144153566-0b7a15e8-f413-445a-8880-dd98dfbd0bc5.png" alt="Material Bread logo">
+ </p>
+ 
 ## Ruby - Project Highlights
 ### Enumerables and Debugging
 - __Ghost Game:-__ Created the word ghost game, in which players take turns adding letters to an expanding word fragment in order to avoid completing a valid word. This implementation enables the participation of more than two players.
 - __Maze Solver Algorithm:-__ This implementation determines the shortest path from S to E in a maze.
+ <p align="center">
+  <img height = 150 src="https://user-images.githubusercontent.com/94204398/144154284-391d9e62-6ff0-47f2-ae12-0f0ea1986c16.PNG" >
+   <img src="https://user-images.githubusercontent.com/94204398/144154351-1fcc800a-768f-4a92-af46-64fae15a2012.PNG">
+ </p>
 
 ### Reference
 - __Memory Puzzle:-__ This project implements a simple memory card match game via the command line. It is divided into five classes: board, card, memory, and human/computer player.
  <p align="center">
-  <img src="https://user-images.githubusercontent.com/94204398/143984193-ddc91b40-374a-4857-98c0-915ec9bbadd3.gif" alt="Material Bread logo">
+  <img height = 150 src="https://user-images.githubusercontent.com/94204398/143984193-ddc91b40-374a-4857-98c0-915ec9bbadd3.gif" alt="Material Bread logo">
  </p>
  
 - __Sudoku Game:-__ The sudoku game is implemented here. It has three classes: board, tile, and sudoku.
