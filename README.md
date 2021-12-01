@@ -7,6 +7,10 @@ The numbering of the folders indicates the order in which they were completed. T
 ## Software Engineering Foundations - Project Highlights
 ### Inputs and Outputs
 - __Hangman Game:-__ Created a hangman game where the user guesses a secret word on the screen. The user is limited to a certain number of wrong guesses and cannot enter a character already attempted.
+ <p align="center">
+  <img src="https://user-images.githubusercontent.com/94204398/144151195-97d8dc25-7bb5-4862-9b9f-68373892c0c6.PNG" alt="Material Bread logo">
+ </p>
+ 
 - __Hotel Project:-__ Created a hotel project that makes use of two classes, the Room class being a subclass of the hotel. Each room has a maximum capacity and a string containing the names of the occupants. A guest may check into a hotel only if there is a vacancy.
 
 ### Object Oriented Programming
