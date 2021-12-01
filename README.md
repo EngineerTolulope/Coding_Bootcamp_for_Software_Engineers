@@ -25,7 +25,7 @@ The numbering of the folders indicates the order in which they were completed. T
 - __TicTacToe Game:-__ This project implemented the classic tic tac toe game for two or more humans or computers on a dynamically sized grid. The final version includes four classes: board, game, human player, and computer player.
 - __Todo Board Project:-__ This project created a task board for tracking unfinished tasks. Two versions were created: one that manages a single to-do list and another that manages multiple to-do lists with expanded list and item features.
  <p align="center">
-  <img src="https://user-images.githubusercontent.com/94204398/144153049-905f4170-39f4-4934-ad7a-7b10a4fb3538.png" alt="Material Bread logo">
+  <img height = 198 src="https://user-images.githubusercontent.com/94204398/144153049-905f4170-39f4-4934-ad7a-7b10a4fb3538.png" alt="Material Bread logo">
    <img src="https://user-images.githubusercontent.com/94204398/144153566-0b7a15e8-f413-445a-8880-dd98dfbd0bc5.png" alt="Material Bread logo">
  </p>
  
