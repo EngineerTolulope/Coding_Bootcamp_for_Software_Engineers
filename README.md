@@ -61,3 +61,9 @@ The numbering of the folders indicates the order in which they were completed. T
  <p align="center">
   <img src="https://user-images.githubusercontent.com/94204398/144150717-42691c3c-dafd-4c01-ae3d-187942c240bd.png" alt="Material Bread logo">
  </p>
+ 
+ - [__Chess Game:-__](https://github.com/EngineerTolulope/Coding_Bootcamp_for_Software_Engineers/tree/main/02_Ruby/06_Object-Oriented_Programming/05_Chess_Game) Implemented the chess game and made use of several classes. The implementation followed all of the rules that one would expect in a game of chess. The project was an excellent demonstration of object-oriented programming in action, utilizing concepts such as subclass inheritance and others. The implementation's UML diagram can be found [here.](https://github.com/EngineerTolulope/Coding_Bootcamp_for_Software_Engineers/tree/main/02_Ruby/06_Object-Oriented_Programming/05_Chess_Game)
+ <p align="center">
+  <img src="https://user-images.githubusercontent.com/94204398/144529235-6742a90c-cb60-4a3d-bbed-2576327b118e.PNG" >
+ </p>
+
