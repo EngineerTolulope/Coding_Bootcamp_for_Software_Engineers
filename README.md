@@ -67,3 +67,6 @@ The numbering of the folders indicates the order in which they were completed. T
   <img src="https://user-images.githubusercontent.com/94204398/144529235-6742a90c-cb60-4a3d-bbed-2576327b118e.PNG" >
  </p>
 
+### RSpec and TDD
+ - [__Pocker Game:-__](https://github.com/EngineerTolulope/Coding_Bootcamp_for_Software_Engineers/tree/main/02_Ruby/07_RSpec_and_TDD/03_Poker_Game) Implemented the poker game, which included five main classes: card, deck, hand, player, and game. 
+
