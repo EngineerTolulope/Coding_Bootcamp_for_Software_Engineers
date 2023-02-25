@@ -1,4 +1,4 @@
-# Software Engineering Projects from my Comprehensive Coding Bootcamp
+# Software Engineering Projects Completed During My Intensive Coding Bootcamp
 App Academy, Full-Stack Curriculum
 
 Welcome to my Github repository! Here, you'll find a collection of projects and exercises that I completed during my time at App Academy's prestigious software engineering coding bootcamp. Each folder is numbered to reflect the order in which the projects were completed, giving you an insight into my growth and development as a software engineer.
